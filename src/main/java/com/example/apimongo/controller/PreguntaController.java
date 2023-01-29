@@ -1,7 +1,7 @@
 package com.example.apimongo.controller;
 
 import com.example.apimongo.model.Pregunta;
-import com.example.apimongo.repository.PreguntaRepository;
+
 import com.example.apimongo.service.PreguntaService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
