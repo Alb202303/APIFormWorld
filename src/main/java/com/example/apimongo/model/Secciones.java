@@ -7,7 +7,7 @@ import java.util.ArrayList;
 public class Secciones {
 
 //    @Id
-//    private String _id;
+//    privadete String _id;
     private String pregunta;
     private ArrayList<String> opciones=new ArrayList<String>();
 
